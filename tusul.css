@@ -1,0 +1,91 @@
+.jumbotron {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .img-fluid {
+    width: 100%;
+    height: auto;
+  }
+  .btn-outline-dark:hover {
+    color: #fff !important;
+    background-color: #000 !important;
+}
+.navbar-brand{
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 20px;
+} 
+.btn-padding {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.btn {
+  font-size: 10px;
+font-weight: bold;
+  font-family: 'News Cycle', sans-serif;
+}
+.navbar-nav{
+  padding-right: 20px;;
+}
+.display-1{
+  font-family: 'News Cycle', sans-serif;
+  color:#803438;
+  font-size: 70px;
+  font-weight: bold;
+}
+#con1 {
+  padding-left: 20px;
+  margin:0;
+}
+body {
+  color: #333;
+}
+#me{
+  font-family: 'News Cycle', sans-serif;
+  font-size: 12px;
+  padding-left: 20px;
+}
+#con{
+  padding-left: 20px;
+  margin:0;
+}
+.card{
+  font-family: 'News Cycle', sans-serif;
+}
+#box{
+  font-family: 'News Cycle', sans-serif;
+  border: 2px solid black;
+}
+#box:hover {
+  background-color: #803438;
+  color:white;
+}
+footer {
+  background-color: #803438;
+  font-family: 'News Cycle', sans-serif;
+}
+
+#CONTACTS{
+  margin-top: 100px;
+}
+.btn-outline-light:hover {
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+.list-inline-item{
+  padding-right:160px;
+}
+.form-control.border-underline {
+  border: none;
+  border-bottom: 1px solid white;
+}
+#btn{
+  margin-top: 30px;
+}
+
+  
